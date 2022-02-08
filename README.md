@@ -1,4 +1,4 @@
-# Dashboard-Higher-Education-Ecuador
+# Dashboard Higher Education Ecuador
 
 Developed a dashboard through the lens of an analyst to create a letter to the stakeholders of a University in Ecuador.
 
